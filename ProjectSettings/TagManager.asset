@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - grabbable
+  - Gate
+  - Lose
+  - Win
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - item
+  - wall
+  - Ground
+  - Gameplay
+  - Object
+  - Main Menu
+  - post
+  - grabbable
+  - Gate
+  - Lose
+  - Win
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: LevelUP
+    uniqueID: 2536555945
+    locked: 0
+  - name: Guide
+    uniqueID: 4108476321
+    locked: 0
+  - name: Gate
+    uniqueID: 3172898859
+    locked: 0
+  - name: Ball
+    uniqueID: 3608506999
+    locked: 0
+  - name: Player
+    uniqueID: 20073567
+    locked: 0
